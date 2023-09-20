@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = /home/avalonubuntu/file_server/dvc_origin/dvc_remote_repo
