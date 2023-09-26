@@ -1,0 +1,6 @@
+outs:
+- md5: 568cbda6ecdef96b57818afe2a2b9217.dir
+  size: 106463282856
+  nfiles: 23704
+  hash: md5
+  path: base_data_100G_2
